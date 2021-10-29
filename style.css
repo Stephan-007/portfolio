@@ -1,0 +1,16 @@
+/*************************
+Desiging the Protfolio page
+**************************/
+
+body {
+  font-family: "monospace", sans-serif;
+}
+
+.font-primary {
+  color: #00abae;
+}
+
+.title-icon {
+  font-size: 30px;
+  font-weight: bold;
+}
